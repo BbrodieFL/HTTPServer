@@ -1,0 +1,4 @@
+# Track only the current server source while the project is small.
+*
+!.gitignore
+!socket.cpp
